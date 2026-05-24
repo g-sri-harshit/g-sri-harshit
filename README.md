@@ -1,14 +1,17 @@
+<!-- TOP WAVE HEADER -->
+<p align="center">
+  <img width="100%" 
+       src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,30:0EA5E9,60:0a3d8f,100:0d1b4b&height=300&section=header&text=Sri%20Harshit%20Golla&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=Where%20Logic%20Meets%20Intelligence%20%F0%9F%A7%A0%20%7C%20Let%27s%20Build%20Something%20Intelligent%20Together%20%F0%9F%A4%96&descAlignY=65&descSize=15&descColor=ffffff"/>
+</p>
+
+<!-- TYPING EFFECT -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&repeat=true&width=750&height=50&lines=B.E.+CSE+(AI+%26+ML)+%7C+Chandigarh+University+%F0%9F%8E%93;Python+%7C+LangChain+%7C+LLMs+%7C+RAG+%7C+GenAI+%F0%9F%94%A5;Turning+Raw+Data+%E2%86%92+Intelligent+Systems+%F0%9F%A4%96;Building%3A+RAG+Bots+%7C+Multi-Agent+AI+%7C+NLP+Models;Code+%2B+AI+%3D+My+Superpower+%E2%9A%A1" />
+</p>
+
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b4b,30:0a3d8f,60:0EA5E9,100:00B4D8&height=250&section=header&text=Sri%20Harshit%20Golla&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=AI%20%26%20ML%20Engineer%20%7C%20Generative%20AI%20%7C%20RAG%20Developer&descAlignY=62&descSize=20&descColor=ffffff&stroke=ffffff&strokeWidth=1" width="100%"/>
-
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=38BDF8&background=00000000&center=true&vCenter=true&width=750&lines=B.E.+CSE+(AI+%26+ML)+%7C+Chandigarh+University+%F0%9F%8E%93;Python+%7C+LangChain+%7C+LLMs+%7C+RAG+%7C+GenAI+%F0%9F%94%A5;Turning+Raw+Data+%E2%86%92+Intelligent+Systems+%F0%9F%A4%96;Building%3A+RAG+Bots+%7C+Multi-Agent+AI+%7C+NLP+Models;Code+%2B+AI+%3D+My+Superpower+%E2%9A%A1" alt="Typing SVG" />
-</a>
-
-<br><br>
+<br>
 
 <!-- PROFILE BADGES -->
 <img src="https://komarev.com/ghpvc/?username=g-sri-harshit&label=Profile+Views&color=38BDF8&style=for-the-badge" />
@@ -391,4 +394,4 @@ AI-powered medical analysis system leveraging Python and ML for healthcare data 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,30:0EA5E9,60:0a3d8f,100:0d1b4b&height=200&section=footer&text=Sri%20Harshit%20Golla&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=55&desc=Where%20Logic%20Meets%20Intelligence%20%F0%9F%A7%A0%20%7C%20Let%27s%20Build%20Something%20Intelligent%20Together%20%F0%9F%A4%96&descAlignY=75&descSize=13&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,30:0EA5E9,60:0a3d8f,100:0d1b4b&height=120&section=footer&animation=twinkling" width="100%"/>
