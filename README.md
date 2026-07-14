@@ -31,7 +31,7 @@
 
 > 👋 Hi! I'm **Sri Harshit Golla** — a passionate **AI & ML Engineer** who loves building intelligent systems that solve real-world problems.
 
-- 🎓 **B.E. CSE (AI & ML)** | Chandigarh University, Punjab | CGPA: **7.56 / 10**
+- 🎓 **B.E. CSE (AI & ML)** | Chandigarh University, Punjab | CGPA: **7.78 / 10**
 - 💻 **Role:** AI/ML Engineer · Generative AI Developer · RAG Specialist
 - 🌍 **Domain:** Machine Learning | NLP | Generative AI | LLMs | RAG Systems
 - 🧠 **Languages:** Python · C++ · SQL
