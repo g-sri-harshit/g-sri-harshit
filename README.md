@@ -338,7 +338,7 @@ AI-powered medical analysis system leveraging Python and ML for healthcare data 
 
 | Year | Degree / Certificate | Institute | Score |
 |:----:|---------------------|-----------|:-----:|
-| 2026 | B.E. Computer Science (AI & ML) | Chandigarh University, Punjab | **7.56 / 10** |
+| 2026 | B.E. Computer Science (AI & ML) | Chandigarh University, Punjab | **7.78 / 10** |
 | 2022 | Intermediate (BIEAP) | Narayana Junior College, Vijayawada | **88.3%** |
 | 2020 | Matriculation (SSC) | Viswabharathi High School, Gudivada | **100%** |
 
